@@ -1,0 +1,7 @@
+node_modules
+dist
+build
+public/bundle.js
+webpack.config.js
+.eslintrc.js
+.lintstagedrc.js
