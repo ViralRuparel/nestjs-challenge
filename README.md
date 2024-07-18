@@ -6,7 +6,7 @@ This challenge demonstrates the ability to render Counter is a single component,
 
 ## Screenshot
 
-![Screenshot](public/Screenshot%202024-07-18%20at%204.59.16%20PM.png)
+![Screenshot](public/Screenshot.png)
 
 ## Task Submission
 
